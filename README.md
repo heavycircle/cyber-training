@@ -2,20 +2,17 @@
 
 Welcome to my notes on offensive cybersecurity and low-level programming.
 
-The site is being live hosted at: [https://cyber.cole-ellis.com](https://cyber.cole-ellis.com).\
-The GitHub repository is located at: [https://github.com/thecae/cyber-training](https://github.com/thecae/cyber-training).
+> [!warning] This site will soon be deprecated in favor of [IronForge Cyber](https://github.com/ironforgecyber).
 
 If this resource helped you out at all, consider supporting me on [Buymeacoffee](https://buymeacoffee.com/cyberguide) :)
 
 ### Who am I?
 
-My name is Cole. I graduated from Vanderbilt University with a degree in computer science. During my time, I was a member of VandyHacks, Vanderbilt's CTF Team, and our SWE Internship Prep Team.
+I graduated from Vanderbilt University with a degree in computer science. During my time, I was a member of VandyHacks, Vanderbilt's CTF Team, and our SWE Internship Prep Team.
 
 There are many sites out there that provide resources for learning binary exploitation, low-level programming, and reverse engineering. However, I found that many of these sites don't provide enough explanation of the theory; I always felt like something was missing in my understanding. I created these notes to help bridge the gap and provide a more comprehensive resource.
 
-These notes primarily accompany an in-person lecture series I provide at Vanderbilt for NROTC students. I also aim to have these notes serve as a standalone resource for those who (1) may not go to Vanderbilt or (2) prefer to learn independently.
-
-[My GitHub Account](https://github.com/thecae)\
+[My GitHub Account](https://github.com/heavycircle)\
 [CTFTime Profile](https://ctftime.org/user/146369)
 
 ### What background is expected?
@@ -34,16 +31,16 @@ Here is a list of the resources I recommend:
 
 Learning Content
 
-* [Ir0nstone's Binex Notes](https://ir0nstone.gitbook.io/notes/) (_Lots of Inspiration came from here, shoutout Andrej_)
-* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-* [Nightmare](https://guyinatuxedo.github.io/)
-* _Hacking: The Art of Exploitation_ by Jon Erickson
-* _Cracking the Coding Interview_ by Gayle Laakmann McDowell
+- [Ir0nstone's Binex Notes](https://ir0nstone.gitbook.io/notes/) (_Lots of Inspiration came from here_)
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [Nightmare](https://guyinatuxedo.github.io/)
+- _Hacking: The Art of Exploitation_ by Jon Erickson
+- _Cracking the Coding Interview_ by Gayle Laakmann McDowell
 
 Practicing Material
 
-* [PicoCTF](https://picoctf.com/)
-* [HackTheBox](https://www.hackthebox.eu/)
-* [OverTheWire](https://overthewire.org/wargames/)
-* [Advent of Code](https://adventofcode.com/)
-* Registering for a CTF competition on [CTFTime](https://ctftime.org/)
+- [PicoCTF](https://picoctf.com/)
+- [HackTheBox](https://www.hackthebox.eu/)
+- [OverTheWire](https://overthewire.org/wargames/)
+- [Advent of Code](https://adventofcode.com/)
+- Registering for a CTF competition on [CTFTime](https://ctftime.org/)
