@@ -2,7 +2,11 @@
 
 Welcome to my notes on offensive cybersecurity and low-level programming.
 
-> [!warning] This site will soon be deprecated in favor of [IronForge Cyber](https://github.com/ironforgecyber).
+{% hint style="success" %}
+[**IronForgeCyber**](https://ironforgecyber.com/) is now live!
+
+**This site will no longer receive updates**. Please visit IronForgeCyber for all this content PLUS new content on the way :)
+{% endhint %}
 
 If this resource helped you out at all, consider supporting me on [Buymeacoffee](https://buymeacoffee.com/cyberguide) :)
 
@@ -31,16 +35,16 @@ Here is a list of the resources I recommend:
 
 Learning Content
 
-- [Ir0nstone's Binex Notes](https://ir0nstone.gitbook.io/notes/) (_Lots of Inspiration came from here_)
-- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-- [Nightmare](https://guyinatuxedo.github.io/)
-- _Hacking: The Art of Exploitation_ by Jon Erickson
-- _Cracking the Coding Interview_ by Gayle Laakmann McDowell
+* [Ir0nstone's Binex Notes](https://ir0nstone.gitbook.io/notes/) (_Lots of Inspiration came from here_)
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [Nightmare](https://guyinatuxedo.github.io/)
+* _Hacking: The Art of Exploitation_ by Jon Erickson
+* _Cracking the Coding Interview_ by Gayle Laakmann McDowell
 
 Practicing Material
 
-- [PicoCTF](https://picoctf.com/)
-- [HackTheBox](https://www.hackthebox.eu/)
-- [OverTheWire](https://overthewire.org/wargames/)
-- [Advent of Code](https://adventofcode.com/)
-- Registering for a CTF competition on [CTFTime](https://ctftime.org/)
+* [PicoCTF](https://picoctf.com/)
+* [HackTheBox](https://www.hackthebox.eu/)
+* [OverTheWire](https://overthewire.org/wargames/)
+* [Advent of Code](https://adventofcode.com/)
+* Registering for a CTF competition on [CTFTime](https://ctftime.org/)
